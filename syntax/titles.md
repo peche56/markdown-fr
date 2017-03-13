@@ -1,17 +1,15 @@
-# Titles
-
-As we started writing a markdown document, we need to add a title and some sub-headers.
-
-Markdown supports two styles of headers, Setext and atx.
-
-Setext-style headers are “underlined” using equal signs (for first-level headers) and dashes (for second-level headers). For example:
+# titres
+Lorsque l'on commence à rédiger un document en markdown, il nous faut ajouter un titre et quelques sous-titres.
+Markdown accèpt deux types d'entêtes, Setext et atx.
+Les entêtes de type setext sont "sous-lignés" avec des signes égal (pour les titres de premiers rangs) et des tirets (pour les titres de seconds rangs). Par exemple:
 
 ```
-This is an H1
-=============
 
-This is an H2
--------------
+C'est un H1
+===========
+
+C'est un H2
+-----------
 ```
 
 Any number of underlining =’s or -’s will work.
